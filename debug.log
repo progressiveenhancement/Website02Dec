@@ -1,0 +1,7 @@
+[1128/180222.857:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1129/143547.162:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1130/181410.246:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1130/211937.407:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Brian Hegarty\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\24a3bc62-cf7e-4517-969e-8d958c9d7dfa: The system cannot find the path specified. (0x3)
+[1201/120948.333:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1201/203023.884:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1202/134918.358:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
